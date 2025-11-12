@@ -3,7 +3,11 @@
 
 #include "Animal.h"
 
-//define reptile class here
+ 
+class Reptile : class animal() {
+
+	bool isVenomus;
+}
 
 
 
