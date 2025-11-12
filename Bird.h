@@ -3,7 +3,10 @@
 
 #include "Animal.h"
 
-//define class bird here 
+class Bird : class animal() {
+	float wingSpan;
+
+}
 
 
 
