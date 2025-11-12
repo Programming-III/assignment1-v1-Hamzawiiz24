@@ -3,7 +3,10 @@
 
 #include "Animal.h"
 
-//define mammal class here
+	class Mammal : class animal() {
+	string Furcolor; 
+
+}
 
 
 
